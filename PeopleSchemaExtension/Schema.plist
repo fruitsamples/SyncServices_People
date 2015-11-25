@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Entities</key>
+	<array>
+		<dict>
+			<key>Attributes</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>location</string>
+					<key>Type</key>
+					<string>string</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>candid photo</string>
+					<key>Type</key>
+					<string>data</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>extreme photo</string>
+					<key>Type</key>
+					<string>data</string>
+				</dict>
+			</array>
+			<key>ExtensionName</key>
+			<string>com.apple.syncexamples.people.contacts.Contact</string>
+			<key>Name</key>
+			<string>com.apple.contacts.Contact</string>
+		</dict>
+	</array>
+	<key>Name</key>
+	<string>PeopleExtSchema</string>
+</dict>
+</plist>
